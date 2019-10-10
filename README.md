@@ -9,7 +9,7 @@ The chart should include a time line for one day, unlike standard charts, where 
 
 Overview:
 
-![alt text](https://github.com/pdaszewski/UniGUI-Gantt-TimeLine/Doc/firefox_screen_001.png)
+![alt text](https://raw.githubusercontent.com/pdaszewski/UniGUI-Gantt-TimeLine/master/Doc/firefox_screen_001.png)
 
 History:
 
