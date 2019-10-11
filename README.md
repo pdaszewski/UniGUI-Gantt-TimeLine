@@ -2,7 +2,7 @@
 Interface construction for Gantt chart in uniGUI.
 
 Description:
-he project involves creating a specific Gantt chart using uniGUI for Delphi. 
+The project involves creating a specific Gantt chart using uniGUI for Delphi. 
 The chart should include a time line for one day, unlike standard charts, where a single area is most often the whole day.
 
 Overview:
